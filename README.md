@@ -1,4 +1,4 @@
-<image align="centre" alt="coding" width="450" src="https://www.analyticsinsight.net/wp-content/upload…es-Using-Machine-Learning-in-a-Profitable-Way.jpg" 
+<image align="centre" alt="coding" width="450" src="https://www.analyticsinsight.net/wp-content/upload…es-Using-Machine-Learning-in-a-Profitable-Way.jpg">
 # Machine_Learning
 Machine Learning is a data analysis technique that automates the building of predictive models by using algorithms that iteratively learn from data. It enables machines to learn from data, identify patterns and make decisions with minimal human intervention, empowering businesses to make data-driven decisions.
 
